@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="names_text">#ff6565</color>
+    <color name="white">#ffffff</color>
+    
+    <!-- SidebarTheme -->
+
+    <color name="sidebar_base_text">#979797</color>
+    <color name="sidebar_category_text">#4e4e4e</color>
+    <color name="sidebar_base_bg">#1f1f1f</color>
+    <color name="sidebar_baner_bg">#fa524a</color>
+    <color name="sidebar_baner_btn">#f3f3f3</color>
+
+    <!-- AppTheme -->
+
+    <color name="base_text">#979797</color>
+
+</resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="SidebarTheme" parent="android:Theme.NoTitleBar">
+
+        <!-- Colors -->
+        <item name="baseSidebarTextColor">@color/sidebar_base_text</item>
+        <item name="categorySidebarTextColor">@color/sidebar_category_text</item>
+        <item name="namesSidebarTextColor">@color/names_text</item>
+        <item name="countsSidebarTextColor">@color/white</item>
+        <item name="baseSidebarBgColor">@color/sidebar_base_bg</item>
+        <item name="banerSidebarBgColor">@color/sidebar_baner_bg</item>
+        <item name="banerSidebarBtnColor">@color/sidebar_baner_btn</item>
+
+        <!-- Backgrounds -->
+        <item name="sidebarCounts">@drawable/bg_sidebar_counts</item>
+        <item name="bgMenuTile">@drawable/bg_menu_tile</item>
+
+        <!-- Drawables -->
+        <item name="icDropdown">@drawable/ic_dropdown</item>
+        <item name="icMyProfile">@drawable/ic_myprofile</item>
+        <item name="icMyPhotos">@drawable/ic_myphotos</item>
+        <item name="icMySettings">@drawable/ic_mysettings</item>
+        <item name="icSearch">@drawable/ic_search</item>
+        <item name="icFriendList">@drawable/ic_friendslist</item>
+        <item name="icWink">@drawable/ic_wink</item>
+        <item name="icMessage">@drawable/ic_message</item>
+        <item name="icViewedMe">@drawable/ic_viewedme</item>
+        <item name="icLogout">@drawable/ic_logout</item>
+    </style>
+
+    <style name="AppTheme" parent="android:Theme.NoTitleBar">
+
+        <!-- <item name="android:windowBackground">@android:color/transparent</item> -->
+
+
+        <!-- Colors -->
+        <item name="baseAppBgColor">@color/white</item>
+        <item name="baseTextColor">@color/base_text</item>
+        <item name="namesTextColor">@color/names_text</item>
+
+        <!-- Backgrounds -->
+        <item name="bgLaunchPortrait">@drawable/bg_launch_portrait</item>
+        <item name="bgLaunchLandscape">@drawable/bg_launch_landscape</item>
+        <item name="bgLaunchField">@drawable/bg_launch_field</item>
+        <item name="bgTitleMain">@drawable/bg_title_set</item>
+        <item name="bgProfLastmsgChat">@drawable/bg_prof_lastmsg_chat</item>
+        <item name="bgProfDetails">@drawable/bg_profdetails</item>
+        <item name="bgProfInputTextMsg">@drawable/bg_inputtextmsg</item>
+        <item name="bgMsgIn">@drawable/bg_message_in</item>
+        <item name="bgMsgOut">@drawable/bg_message_out</item>
+        <item name="bgPhotoCounts">@drawable/bg_photo_counts</item>
+        <item name="bgStatusOffline">@drawable/bg_status_offline</item>
+        <item name="bgStatusOnline">@drawable/bg_status_online</item>
+        <item name="bgStatusRecently">@drawable/bg_status_recently</item>
+
+        <!-- Drawables -->
+        <item name="btnHome">@drawable/btn_home</item>
+        <item name="btnSearchSettings">@drawable/btn_searchsetting</item>
+        <item name="btnListToggle">@drawable/btn_list_toggle</item>
+        <item name="btnGridToggle">@drawable/btn_grid_toggle</item>
+        <item name="btnMapToggle">@drawable/btn_map_toggle</item>
+        <item name="btnWinkToggle">@drawable/btn_wink_toggle</item>
+        <item name="btnFavoritesToggle">@drawable/btn_favorites_toggle</item>
+        <item name="btnSmile">@drawable/btn_smile</item>
+        <item name="btnChat">@drawable/btn_chat</item>
+        <item name="btnSendMsg">@drawable/btn_sendmsg</item>
+        <item name="btnBaseRed">@drawable/btn_base_red</item>
+        <item name="btnLogin">@drawable/btn_login</item>
+        <item name="btnLaunchLogin">@drawable/btn_launchlogin</item>
+        <item name="btnLaunchJoin">@drawable/btn_launchjoin</item>
+        <item name="btnPassForgotten">@drawable/btn_passforgotten</item>
+        <item name="btnSelect">@drawable/btn_select</item>
+        <item name="tabProfLeft">@drawable/tab_profleft_toggle</item>
+        <item name="tabProfRight">@drawable/tab_profright_toggle</item>
+        <item name="btnMyprofile">@drawable/btn_myprofile</item>
+        <item name="launchLogo">@drawable/launch_logo</item>
+        <item name="icLocation">@drawable/ic_location</item>
+        <item name="icAge">@drawable/ic_age</item>
+        <item name="icArrowRight">@drawable/ic_arrow_right</item>
+        <item name="icPhotoSmall">@drawable/ic_photo_small</item>
+        <item name="lineGreyDivider">@drawable/line_graydivider</item>
+        <item name="lineLaunch">@drawable/line_launch</item>
+        <item name="cbBase">@drawable/cb_base</item>
+
+        <!-- <ANIMATION> -->
+        <item name="animLoading">@anim/loading</item>
+
+        <!-- Strings -->
+        <!--
+        <item name="appAboutDialogString">@string/app_about</item>
+        <item name="appNameString">@string/app_name</item>
+        <item name="appAboutDialogUrlString">@string/app_url</item>
+        <item name="appAboutDialogUrlStringText">@string/app_url_text</item>
+        <item name="appAboutDialogCopyrightString">@string/app_copyright</item>
+        -->
+
+    </style>
+
+</resources>
